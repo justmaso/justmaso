@@ -1,4 +1,4 @@
-- 👋 I’m Mason Law
+- 👋 I’m @justmaso
 - 🧑‍💻 I’m interested in CS
 - 📖 I’m currently at the University of Toronto 
 
