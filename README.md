@@ -1,6 +1,5 @@
 - 👋 I’m @justmaso
-- 🧑‍💻 I’m interested in CS
-- 📖 I’m currently at the University of Toronto 
+- 📖 I’m currently at the University of Toronto studying CS
 
 <!---
 justmaso/justmaso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
